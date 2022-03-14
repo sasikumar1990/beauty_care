@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Beauty Care</string>
+    <string name="main_header">Gile Beauty Salon</string>
+    <string name="select_text">Please select the employee(s) for this service.You can select multiple employees.</string>
+    <string name="button_text">Add service to cart</string>
+    <string name="cart">Cart</string>
+
+
+</resources>
